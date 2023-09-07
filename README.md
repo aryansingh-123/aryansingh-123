@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **akshing2558@gmail.com**
 
-- 📄 Know about my experiences [Sanjeeb Tiwary](https://drive.google.com/file/d/1ta_CnADOYO1OUV2rfpYJcUl5zdPQyZvx/view?usp=drive_link)
+- 📄 Know about my experiences [Aryan Sing](https://drive.google.com/file/d/1ta_CnADOYO1OUV2rfpYJcUl5zdPQyZvx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
