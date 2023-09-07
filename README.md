@@ -34,24 +34,21 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/sanjeebtiwary1" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeebtiwary1?logo=twitter&style=for-the-badge" alt="sanjeebtiwary1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayran582002" target="blank"><img src="https://img.shields.io/twitter/follow/ayran582002?logo=twitter&style=for-the-badge" alt="ayran582002" /></a> </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💬 Ask me about **Website Development**
 
-- 📫 How to reach me **sanjeebtiwary9006@gmail.com**
+- 📫 How to reach me **akshing2558@gmail.com**
 
-- 📄 Know about my experiences [Sanjeeb Tiwary](https://drive.google.com/file/d/1iuxn8xq0dQS6y7v0QwQdPvKeBNz6OF6R/view?usp=sharing)
+- 📄 Know about my experiences [Sanjeeb Tiwary](https://drive.google.com/file/d/1ta_CnADOYO1OUV2rfpYJcUl5zdPQyZvx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.sanjeebtiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.sanjeebtiwary" height="30" width="40" /></a>
-<a href="https://twitter.com/sanjeebtiwary1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeebtiwary1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjeeb-tiwary-241847200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeeb-tiwary-241847200/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9064911/sanjeeb-tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9064911/sanjeeb-tiwary" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sanjeebtiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sanjeebtiwary" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sanjeeb_tiwary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanjeeb_tiwary/" height="30" width="40" /></a>
+<a href="https://twitter.com/ayran582002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayran582002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-kumar-singh-a3a08a20b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-kumar-singh-a3a08a20b/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/kdM2fgCAUf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kdM2fgCAUf" height="30" width="40" /></a>
 </p>
 
